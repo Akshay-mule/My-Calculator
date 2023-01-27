@@ -1,1 +1,1 @@
-# My-Calculator
+This Project is one of my first project in my web developer journey created using HTML,CSS and Javascript. This is a simple calculator program . where the user can perform a calculations and get their results. I have made use of javascript for functionality and Html and Css for the outlook of the calculator Your can see demo on clicking below link:
